@@ -58,28 +58,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/birthday-cover.jpg");
+    background-image: url("birthday-cover.jpg");
     background-size: cover;
 }
 
 #gift-img-162:hover {
-    background-image: url("images/bday-162.gif");
+    background-image: url("bday-162.gif");
 }
 
 #gift-img-450:hover {
-    background-image: url("images/bday-420.gif");
+    background-image: url("bday-420.gif");
 }
 
 #gift-img-510:hover {
-    background-image: url("images/bday-510.gif");
+    background-image: url("bday-510.gif");
 }
 
 #gift-img-563:hover {
-    background-image: url("images/bday-563.gif");
+    background-image: url("bday-563.gif");
 }
 
 #gift-img-913:hover {
-    background-image: url("images/bday-913.gif");
+    background-image: url("bday-913.gif");
 }
 
 #footer {
